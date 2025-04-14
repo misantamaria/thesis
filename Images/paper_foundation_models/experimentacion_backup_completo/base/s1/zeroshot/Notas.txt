@@ -1,0 +1,37 @@
+1 - ratio 1 - Alpha 0.5
+2 - ratio 1 - Alpha 0.2
+3 - ratio 0.2 
+Vamos a ver qué tal separan esos 4 clústers. No tengo mucha esperanza. 
+
+--- CLUSTER 1 ---
+4 - Cluster rosa | Ocupa toda la erie. Es una línea muy clara. Pareciera tendencia, pero de nuevo se relaciona con otros clusters más que consigo mismos, con lo que más bien debe ser un patrón, cercanos por alturas, formas o similar. Veamos.
+5 - Picos que acaban en caída? Casi cogemos df2
+6 - Casi cazamos df2, pero parece más bien algún patrón 
+7 -  Analizar en conjunto. Parece como si tuviéramos df2 y parte de df2 y df 3, pero deben ser más patrones que segmentos, no son nada claros
+8 - De nuevo un muelle en df1 y df 2... venga que casi hacemos bulling de nuevo a df2!
+9 - Vaaaaaaaamos con el bulling!! df1 y df3 casi se contagina, pero apenas hay nada de df2, debe estar cogiendo giros
+
+--- CLUSTER 2 --- 
+
+10 - Cluster morado. Este tiene un pico a la derecha. Veamos qué tal se porta. De nuevo tiene la serie completa. 
+11 - Parece que el trozo separado es df2 con restos de df1 y df3
+12 - Añadiendo el trozo de la izquierda, tenemos casi completado el df2 y aparecen trozos con múltiples picos de ruido seguidos en df2 y df3.. debe ser que a Moment no le gusta mucho el ruido y se debería preprocesar la serie para quitar ruido (SMA)
+13 - Casi aislamos df4
+14 - Aislamos df2
+
+--- CLUSTER 3 ---
+15 - zoomeamos el clúster naranja, que de nuevo tiene un pico a la derecha. Se parece mucho también a la separación del verde y del azul. ¿Será siempre la misma discriminación de df2? ¿Será equivalente a nivel de segmentación analizar cualquiera de los clusters que genera moment? ¿Y por qué justo ha generado 4 clústers que era los segmentos que necesitaba? (La casualidad jaja)
+
+16 - ¡Milagro! No es la misma separación. Aquí están patrones más concretos. Esto es claramente el pico qdoble que viene después de una caída importante que también tiene pico grande abajo
+
+17 - Similares, cogen un poco más por la izquierda. Parece aceptar menos amplitud. 
+18 - Vuelve el bulling a df2, ¿Se están añadiendo las subidas más crespadas=
+19 - Apartamos a DF4 … NO DETECTO PATRONES. .. 
+20 - Un poco menos de df3... no sabría describirlo por si solo
+21 - Casi aisla a df3, se ven los trozos justo antes de una caída, los que tienen mucho ruido justo antes de caer
+--- CLUSTER 4 ---
+22 - Zoomeamos el clúster verde a ver qué ocurre. Se ve una estructura más separada
+23 - Casi separamos df2
+24 - Tienen que ser patrones. Revisar, no lo veo claro 
+25 - df1 y df3 muy resaltados... pero no veo nada claro 
+26 - El pico de la derecha esta vez aisla a df4 => NO, no es equivalente mirar cualquiera de los clústeres. Cuesta entender en qué se está fijando el modelo.

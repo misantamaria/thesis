@@ -1,0 +1,8 @@
+En general no se observa mucho
+PEro por imágenes
+1- Muestra un cluster que casi coge la parte del segmento de la derecha
+
+va muy muy muy lento el análisis. Apenas se puede seleccionar.
+Cambio a otro dataset y dejo este para el último
+
+Miraré directamente si salen dos clusters claros como en MVP

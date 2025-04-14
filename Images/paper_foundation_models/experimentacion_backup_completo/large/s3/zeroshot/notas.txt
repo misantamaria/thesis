@@ -1,0 +1,3 @@
+es cierto que se divide justo entre izquierda y derecha..
+pero... ¿Es por tendencia o está segmentando por algún otro parecido? 
+Veamos qué pasa al fine-tunear

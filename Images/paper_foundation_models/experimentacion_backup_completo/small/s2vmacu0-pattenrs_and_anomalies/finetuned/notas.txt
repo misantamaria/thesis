@@ -1,0 +1,25 @@
+1 - ratio 1
+2 - ratio 0.2
+3 - Marrón | Todo menos los picos en caídas
+4 - Azul | La serie entera
+5 - Dentro del cluster marron, recalculando. ¿Picos superiores dobles?
+6 - Picos bajos no tan bajos?
+7 - El naranja, no muy claro
+8 - Picos?
+9 - Picos dobles?
+10 - Picos más hacia la izquierda?
+11 - … No saco nada de dentro del cluster marrón
+12 - La anomalía de la derecha en el clúster marrón
+13 - La anomalía de la izquierda en el clúster marrón
+---- No ves las anomalías sin pinchar abajo ni en 4 siglos ----
+14 - Apunto de hacer zoom en la parte izquierda del cluster 'Azul' . Observar que solo está la anomalía de la derecha
+15 - Anomalía de la derecha dentro del clúster 'Azul'
+16 - Patrones picos de la izquierda
+17 - Los patrones de la 16 se entremezclan con los de doble montaña
+18, 19, 20 - Parece que el cluster naranja intenta avanzar hacia la derecha en la serie.
+21 - El cluster morado parece sacar los picos que vienen después de otro pico
+22,23 - Hacemos zoom en la parte de la derecha del clúster 'Azul'. Aparentemente, picos altos y caídas
+24 - En los naranjas, pico último justo antes de la caída
+25 - Lo amarillo inferior no lo distingo de lo naranja
+26 - Lo amarillo superior es, claramente, el opuesto a las dobles montañas, la parte más bien baja
+27 - Anomalía de la izquierda

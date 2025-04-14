@@ -1,0 +1,15 @@
+1 - Ratio 1
+Pareciera que hay 3 zonas diferenciadas. Echemos un ojo
+2 - Ratio 2
+Porque igual son 4
+3 - Zona de la izquierda
+4 - El pico verde, que cierto es que muy normal tampoco es aunque no sea la anomalía que buscamos 
+5 - La anomalía de la izquierda junto con la otra , porque tienen un parecido en picos será. Le gustan los picos a Moment.
+6 - La anomalía de manera individual
+7 - Los puntos de camino a la derecha 
+8 - Apunto de cazar a la anomalía de la derecha
+9 - Anomalía de la derecha Parece que momento intenta alejar del centro de los clusters a las anomalías, siempre parecen un punto de inicio o algo así
+10 - Posible patrón 
+11 - Segmentación un poco rara. Revisar 
+12 - Parece que las cosas cercanas a las anomalías también se quedan en las afueras de los clústers 
+13 - Los puntos de en medio parecen una segmentación con 11.

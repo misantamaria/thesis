@@ -1,0 +1,5 @@
+1 - Anomalía a la derecha
+2 - Anomalía a la izquierda
+3 - Completo ratio 1
+4 - Completo ratio 2
+

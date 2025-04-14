@@ -1,0 +1,2 @@
+Pareciera que consigue detectar la tendencia pero está enmarañada entre muchos patrones complejos. 
+Quizá tiene demasiado ruido la serie y está detectando como patrones ruido de la misma. Probablemente, se beneficiaría de entrenar el modelo usando una versión del dataset preprocesada para reducir el ruido.

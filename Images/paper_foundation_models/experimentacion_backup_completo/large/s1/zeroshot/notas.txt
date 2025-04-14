@@ -1,0 +1,21 @@
+1 - ratio 1 Alpha 0.5
+2 - ratio 1 Alpha 0.2
+3 - ratio 0.2 Alpha 0.2
+De nuevo, no hay una segmentación clara.
+No hay unos clústeres muy claros. Vamos a intentar modificar la proyección 
+4 - Configuración más clara de UMAP & PCA
+5 - La misma configuración en ratio 1
+6 - El clúster marrón ocupa casi toda la serie. Hagamos zoom
+7 - Zoom
+No se observa una estructura clara, vayamos por trozos 
+8 - Trozo 1. Nada en claro. Posibles picos.
+9 - Trozo 2. Posible patrón.
+10 - Posibles anomalías
+11 - Posible patrón
+12 - Posible patrón
+13 - Posible patrón 
+14 - Posible patrón
+15 - Poco en claro
+16 - Poco en claro
+17 - Otro patrón 
+18 - Posible tipo de anomalías.

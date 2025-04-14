@@ -1,0 +1,6 @@
+1 - ratio 1, Alpha 0.5
+2 - ratio 1, Alpha 0.2
+3 - ratio 0.2 Alpha 0.2
+4 - encontrada la anomalía de la derecha, nada clara
+5 - encontrada la anomalía de la izquierda. De nuevo, nada clara. 
+Veamos qué ocurre al hacer fine-tune

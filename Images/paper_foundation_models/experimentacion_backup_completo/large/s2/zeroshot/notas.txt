@@ -1,0 +1,50 @@
+1 - ratio 1
+2 - ratio 0.2
+--- Cluster rosa ---
+Claramente es el patrón de los picos extremos. Y de hecho contiene las anomalías. Veamoslo con zoom 
+3 - Anomalía de la derecha
+4 - Cluster rosa
+5 - cluster rosa sin la marca
+6 - CAZADAS las dos anomalías casi perfecto 
+
+--- Cluster amarillo --
+7 - El cluster amarillo también parece un patrón 
+8 - Foto sin marca
+9 - Los puntos sueltos entre el cluster amarillo y el verde parecen las anomalías de las partes bajas 
+10 -  El punto que quiere ser verde pero es amarillo, parece ser otra de las partes bajas
+11 - La anomalía de la izquierda desde un punto mucho más obvio. Escapándose del cluster rosa
+12 - La anomalía de la derecha. 
+13 - Posible club de los picos extremos
+14 - Posible club del resto de picos
+--- Clúster verde ----
+15 - El clúster verde parece hacer referencia a todo menos el pico individual que une trozos
+16 - Posible patrón
+17 - Posible patrón del doble pico
+18 - Clúster de las partes bajas 
+19 - Parece que sigue siendo las partes bajas y por eso está tan cerca
+20 - Tú y yo juntitos de la mano  (18+19 toguether)
+
+--- Clúster naranja --- 
+21 - Excluye más trozo de la serie. 
+22 - Zoom 
+23 - Posible patrón de pico de la derecha 
+24 - Tercer pico justo antes de caída
+25 - Los mismos picos, pero con más casos e incluyendo parte de picos altos ¿Transición al otro pico por anchura?
+26 - Los puntos sueltos 
+27 - Los picos altos 
+28 - Parte derecha de las ondas al completo 
+29 - El trozo apartado parece que son los picos altos de nuevo... no entiendo muy bien en qué se fija al segmentar
+--- Cluster cyan ----
+30 - zoom 
+31 - Selección. Se ve que este clúster son los picos de la derecha. Casi se podría juntar con los del anterior. No parece que merezca la pena analizarlo por dentro. 
+--- Clúster azul ---
+32 - Este coge casi todo menos los picos de la izquierda . No incluye ninguna de las dos anomalías. 
+33 - zoom 
+34 - Posibles  anomalías 
+35 - El club de las partes bajas.
+36 - El club de los picos de la derecha.
+37 - Continuación de los picos de la derecha.
+38 - Sin mucha más distinción.  
+Parece que tenemos dos partes. Los picos de la derecha y los de la izquierda. A ver si se pueden coger a lo grande 
+39 -Estos parecen unos 
+40 - y estos los otros

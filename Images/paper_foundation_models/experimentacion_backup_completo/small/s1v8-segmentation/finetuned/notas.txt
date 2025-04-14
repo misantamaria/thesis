@@ -1,0 +1,14 @@
+1 - ratio 0.2 | Alpha 0.5
+2 - ratio 0.2 | Alpha 0.2
+3 - ratio 1 | Alpha 0.2
+4 - cluster azul | Toda la serie
+5 - cluster rosa izda | df1, df3, df4?
+6 - se repite df1 df3 df4 con trocitos de df2 
+7 - Empieza a desaparecer df4 y aparecer df2
+8 - Casi perfecto df2
+9 - El verde claro es la serie completa
+10 - picos arriba
+11 - dobles picos
+12 - difícil de definir
+13 - ¿df1 df2 df3?
+

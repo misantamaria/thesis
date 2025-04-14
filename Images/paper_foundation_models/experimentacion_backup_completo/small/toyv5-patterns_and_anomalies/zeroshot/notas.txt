@@ -1,0 +1,6 @@
+1 - ratio 1
+2 - ratio 0.2
+3 - Anomalía a la derecha
+4 - Anomalía a la izquierda
+
+Se observa que sí que se cazan las anomalías, manteniéndose como giros cerrados, pero al ser todo tan picudo, cuesta verlo tan claro como en MVP.

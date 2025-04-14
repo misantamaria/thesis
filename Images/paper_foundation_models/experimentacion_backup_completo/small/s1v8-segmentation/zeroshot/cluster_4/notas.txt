@@ -1,0 +1,12 @@
+Tiene una estructura menos clara a nivel de segmentación.
+Parece estar tratando de encontrar tendencias
+Sin embargo, por imágenes
+
+1- Parece estar capturando más o menos df2
+2- Tiene trozos a alturas similares de df1 y df3
+3- Casi completa df1 y df3 y se come a df2
+4- Es una zona un poco.. desordenada, que coge de todo. No se ve nada en claro.
+5- Casi consigue segmentar df4
+6- Tenemos un todo vs df2 casi claro de nuevo
+
+Habrá que ver qué hace con el fine-tune

@@ -1,0 +1,171 @@
+Algo pasa con el tiempo al sacarlo, pero se pueden echar las cuentas multiplicando
+
+
+[1] "eventReactive enc | load encoder | Check if the encoder file exists: /home/macu/data/wandb_artifacts/-5325296549279618240"
+[1] "eventReactive enc | load encoder -5325296549279618240 | --> Load from binary file "
+18:40:01.396::::::::eventReactive enc | load encoder | stride 2-->
+[0] fine_tune_moment_single | Eval Pre | wlen 360
+100%|██████████| 89/89 [00:34<00:00,  2.58it/s]
+[0] fine_tune_moment_single | Train | wlen 360
+  0%|          | 0/670 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 360 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/670 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 360
+100%|██████████| 89/89 [00:34<00:00,  2.59it/s]
+[0] fine_tune_moment_single | Train | wlen 180
+  0%|          | 0/680 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 180 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/680 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 180
+100%|██████████| 90/90 [00:19<00:00,  4.56it/s]
+[0] fine_tune_moment_single | Train | wlen 121
+  0%|          | 0/680 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 121 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/680 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 121
+100%|██████████| 90/90 [00:15<00:00,  5.97it/s]
+[0] fine_tune_moment_single | Train | wlen 30
+  0%|          | 0/680 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 30 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/680 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 30
+100%|██████████| 90/90 [00:07<00:00, 12.52it/s]
+18:42:32.518::::::::Fine tune: 2.51834313869476 s | approx 0.0419723856449127min
+18:42:32.519::::::::Fine tune Python shot time: 0s
+
+
+Siento que ha tardado más.... Y no salen bien los tiempos de python,  no entiendo por qué. Voy a echar un ojo. 
+
+[0] fine_tune_moment_single | Eval Pre | wlen 1440
+100%|██████████| 122/122 [02:56<00:00,  1.45s/it]
+[0] fine_tune_moment_single | Train | wlen 1440
+  0%|          | 0/920 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 1440 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/920 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 1440
+100%|██████████| 122/122 [02:54<00:00,  1.43s/it]
+[0] fine_tune_moment_single | Train | wlen 720
+  0%|          | 0/930 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 720 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/930 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 720
+100%|██████████| 124/124 [01:30<00:00,  1.37it/s]
+[0] fine_tune_moment_single | Train | wlen 240
+  0%|          | 0/940 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 240 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/940 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 240
+100%|██████████| 126/126 [00:34<00:00,  3.70it/s]
+[0] fine_tune_moment_single | Train | wlen 54
+  0%|          | 0/950 [00:00<?, ?it/s][0] fine_tune_moment_single | Train | Window 54 not valid | Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!
+  0%|          | 0/950 [00:00<?, ?it/s]
+[0] fine_tune_moment_single | Eval Post | wlen 54
+100%|██████████| 126/126 [00:12<00:00,  9.97it/s]
+09:14:04.292::::::::Fine tune: 10.1345479329427 s | approx 0.168909132215712min
+09:14:04.292::::::::Fine tune Python single shots time: 0s
+ 09:14:04.292::::::::Fine tune Python single shots time: 0s
+ 09:14:04.292::::::::Fine tune Python single shots time: 0s
+ 09:14:04.292::::::::Fine tune Python single shots time: 0s
+09:14:04.293::::::::Fine tune Python total shot time: 0s
+09:14:04.293::::::::Fine tune Python single eval steps time: 0s
+ 09:14:04.293::::::::Fine tune Python single eval steps time: 0s
+ 09:14:04.293::::::::Fine tune Python single eval steps time: 0s
+ 09:14:04.293::::::::Fine tune Python single eval steps time: 0s
+09:14:04.293::::::::Fine tune Python total eval time: 0s
+09:14:04.293::::::::Fine tune Python single shots time: 0s
+ 09:14:04.293::::::::Fine tune Python single shots time: 0s
+ 09:14:04.293::::::::Fine tune Python single shots time: 0s
+ 09:14:04.293::::::::Fine tune Python single shots time: 0s
+09:14:04.293::::::::Fine tune eval results pre-tune: list(mse = 3.85468428236242)s
+ 09:14:04.293::::::::Fine tune eval results pre-tune: list(mse = 15.0751484213057)s
+ 09:14:04.293::::::::Fine tune eval results pre-tune: list(mae = 3.14085500021725)s
+ 09:14:04.293::::::::Fine tune eval results pre-tune: list(smape = 1.05105100099184)s
+09:14:04.293::::::::Fine tune eval results post-tune: list(mse = list(mse = 3.85468428236242), rmse = list(mse = 15.0751484213057), mae = list(mae = 3.14085500021725), smape = list(smape = 1.05105100099184))s
+ 09:14:04.293::::::::Fine tune eval results post-tune: list(mse = list(mse = 3.6027444333597), rmse = list(mse = 13.2948719448989), mae = list(mae = 2.91443035445502), smape = list(smape = 1.02543634520522))s
+ 09:14:04.293::::::::Fine tune eval results post-tune: list(mse = list(mse = 2.99234421297839), rmse = list(mse = 9.20907124144403), mae = list(mae = 2.40403283369974), smape = list(smape = 0.907872551009858))s
+ 09:14:04.293::::::::Fine tune eval results post-tune: list(mse = list(mse = 3.38079699045223), rmse = list(mse = 11.9384302859332), mae = list(mae = 2.74669073646475), smape = list(smape = 1.19748289573993))s
+09:14:04.294::::::::--> Updating play_fine_tune TRUE
+09:14:04.302:::::::: Updating play_fine_tune --> FALSE
+09:14:04.305::::::::Observe event | Input fine tune | Play fine tune ... Waiting ...
+
+
+
+El plot sigue siendo 0% aclarativo
+
+------------------------- RETRIAL 25/10/24 -------------------------------
+...
+[1] fine_tune_moment_ | X not-windowed dataset | Selecting Fourier's dominant frequences | [1440, 720, 240, 54]
+Duda: ¿Por qué se escogió el 54?
+...
+[1] fine_tune_moment_single | Eval Pre | wlen 1440
+100%|██████████| 122/122 [03:02<00:00,  1.50s/it]
+[1] [] Start: 1729850551.4761224 | End: 1729850773.5670657 | Duration: 222.09094333648682 seconds
+[1] fine_tune_moment_single | Train | wlen 1440
+100%|██████████| 920/920 [00:43<00:00, 21.17it/s]
+[1] [] Start: 1729850773.567221 | End: 1729850817.045693 | Duration: 43.478471994400024 seconds
+[1] fine_tune_moment_single | Eval Post | wlen 1440
+100%|██████████| 122/122 [02:56<00:00,  1.45s/it]
+[1] [] Start: 1729850817.045792 | End: 1729851032.7328315 | Duration: 215.68703937530518 seconds
+[1] Eval pre: 
+mse: {'mse': 3.8546842823624226}
+rmse: {'mse': 15.075148421305745}
+mae: {'mae': 3.140855000217255}
+smape: {'smape': 1.051051000991837}
+[1] Eval post: 
+mse: {'mse': 1.907971174105604}
+rmse: {'mse': 3.6584747653496574}
+mae: {'mae': 1.5204980387476275}
+smape: {'smape': 0.6987059126924898}
+...
+[1] fine_tune_moment_ | Processing wlen 720
+[1] --> fine_tune_moment_single
+[1] fine_tune_moment_single | Prepare the dataset
+[1] fine_tune_moment_single | Selecting ds train | 3961 windows
+[1] fine_tune_moment_single | Selecting validation train | 3961 windows
+[1] fine_tune_moment_single | Train DataLoader | Random windows
+[1] fine_tune_moment_single | Train DataLoader | DataLoader
+[1] fine_tune_moment_single | Validation DataLoader
+[1] fine_tune_moment_single | Train | wlen 720
+100%|██████████| 930/930 [00:26<00:00, 34.78it/s]
+[1] [] Start: 1729851032.7471623 | End: 1729851059.5058768 | Duration: 26.75871443748474 seconds
+[1] fine_tune_moment_single | Eval Post | wlen 720
+100%|██████████| 124/124 [01:32<00:00,  1.34it/s]
+[1] [] Start: 1729851059.50594 | End: 1729851173.5994782 | Duration: 114.09353828430176 seconds
+[1] fine_tune_moment_single | Evaluation summary
+[1] Eval post: 
+mse: {'mse': 1.5897538559253863}
+rmse: {'mse': 2.565245362551273}
+mae: {'mae': 1.2642621416667135}
+smape: {'smape': 0.6321974346874029}
+[1] fine_tune_moment_single -->
+...
+[1] fine_tune_moment_single | Train | wlen 54
+100%|██████████| 950/950 [00:26<00:00, 36.14it/s]
+[1] [] Start: 1729851243.1087744 | End: 1729851269.3993952 | Duration: 26.290620803833008 seconds
+[1] fine_tune_moment_single | Eval Post | wlen 54
+100%|██████████| 126/126 [00:11<00:00, 10.68it/s]
+[1] [] Start: 1729851269.3995109 | End: 1729851287.1277351 | Duration: 17.728224277496338 seconds
+[1] fine_tune_moment_single | Evaluation summary
+[1] Eval post: 
+mse: {'mse': 1.8313423454970452}
+rmse: {'mse': 3.391207189729909}
+mae: {'mae': 1.4670764586181628}
+smape: {'smape': 0.6632482088462622}
+[1] fine_tune_moment_single -->
+10:14:47.133::::::::Fine tune: 12.2833242535591 s | approx 0.204722070892652min
+10:14:47.134::::::::Fine tune Python single shots time: 43.4784719944s
+ 10:14:47.134::::::::Fine tune Python single shots time: 26.7587144374847s
+ 10:14:47.134::::::::Fine tune Python single shots time: 25.6936495304108s
+ 10:14:47.134::::::::Fine tune Python single shots time: 26.290620803833s
+10:14:47.134::::::::Fine tune Python total shot time: 122.221456766129s
+10:14:47.134::::::::Fine tune Python single eval steps time: 43.4784719944s
+ 10:14:47.134::::::::Fine tune Python single eval steps time: 26.7587144374847s
+ 10:14:47.134::::::::Fine tune Python single eval steps time: 25.6936495304108s
+ 10:14:47.134::::::::Fine tune Python single eval steps time: 26.290620803833s
+10:14:47.134::::::::Fine tune Python total eval time: 122.221456766129s
+10:14:47.134::::::::Fine tune Python single shots time: 43.4784719944s
+ 10:14:47.134::::::::Fine tune Python single shots time: 26.7587144374847s
+ 10:14:47.134::::::::Fine tune Python single shots time: 25.6936495304108s
+ 10:14:47.134::::::::Fine tune Python single shots time: 26.290620803833s
+10:14:47.135::::::::Fine tune eval results pre-tune: list(mse = 3.85468428236242)s
+ 10:14:47.135::::::::Fine tune eval results pre-tune: list(mse = 15.0751484213057)s
+ 10:14:47.135::::::::Fine tune eval results pre-tune: list(mae = 3.14085500021725)s
+ 10:14:47.135::::::::Fine tune eval results pre-tune: list(smape = 1.05105100099184)s
+10:14:47.135::::::::Fine tune eval results post-tune: list(mse = list(mse = 1.9079711741056), rmse = list(mse = 3.65847476534966), mae = list(mae = 1.52049803874763), smape = list(smape = 0.69870591269249))s
+ 10:14:47.135::::::::Fine tune eval results post-tune: list(mse = list(mse = 1.58975385592539), rmse = list(mse = 2.56524536255127), mae = list(mae = 1.26426214166671), smape = list(smape = 0.632197434687403))s
+ 10:14:47.135::::::::Fine tune eval results post-tune: list(mse = list(mse = 1.53659784785692), rmse = list(mse = 2.39299556578053), mae = list(mae = 1.22470199335784), smape = list(smape = 0.608779444479756))s
+ 10:14:47.135::::::::Fine tune eval results post-tune: list(mse = list(mse = 1.83134234549705), rmse = list(mse = 3.39120718972991), mae = list(mae = 1.46707645861816), smape = list(smape = 0.663248208846262))s
+

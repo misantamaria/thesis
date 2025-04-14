@@ -1,0 +1,11 @@
+----Esto es del zeroshot---
+Cuesta encontarlo, pero sí que se ven las anomalías más o menos
+
+- 1 y 2: anomalía pico abajo
+- 3 y 4: anomalía pico alto. 
+No es para nada tan claro como en MVP. A ver al fine-tunear
+
+
+
+--- Esto es general ---
+He metido la imagen en finetune… peta

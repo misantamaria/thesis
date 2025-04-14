@@ -1,0 +1,18 @@
+De nuevo un cluster con prácticamente toda las serie
+
+
+1,2- Se ve que puede haber clusters internos, pero el ratio de aspecto no ayuda. Vamos a ponerlo a 0.2
+3,4 - Ratio 0.2 con zoom re-hecho porque no centra en el cluster de nuevo
+Se ven 5 clusters diferenciados. A ver si hay suerte. Como no son lineales, de primeras no se puede tener nada claro que vayan a ser del mismo trozo de la serie, sino que parece que junta por alturas.
+¿¿Puede ser todo esto consecuencia de que los losses son MSE??
+¿¿Deberíamos proponer fine-tunear con DTW??
+--> A futuros, no ahora, que no da tiempo.
+
+5 - mescolanza de todos los segmentos
+6- df1, df3, df4
+7 - todos los picos posibles
+8 - Un poco de todos …
+9 - Casi toda la serie excepto df4. 
+
+No tiene mucha información relevante fácil de extraer
+Procedamos con el fine tune.

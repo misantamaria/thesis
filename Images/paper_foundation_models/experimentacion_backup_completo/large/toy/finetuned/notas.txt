@@ -1,0 +1,15 @@
+No veo mucho cambio respecto a la versión sin fine-tune
+Es verdad que en el large es solo un 3% de mejora
+Notar que el último fichero de log asociado a esta experimentación es el 643
+1- ratio 1
+2 - ratio 0.2
+3 - Cazada la anomalía de la derecha
+4 - Parece que en sus alrededores anda también la anomalía de la izquierda. Será ese pico?
+5 - No, el pico es el pico verde 
+6 - Es el otro pico. 
+
+7 - ¿Y qué encontramos en el resto de tumulto ? 
+Casi todo menos la zona baja, la anomalía de la derecha y el pico verde.
+8 - La parte de abajo parece cazaar las montañas
+9 - Pero no hay una segmentación clara o detección de patrones concretos
+Las anomalías no se le han dado nada mal 

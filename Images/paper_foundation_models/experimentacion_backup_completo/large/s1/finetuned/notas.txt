@@ -1,0 +1,19 @@
+1 - ratio 1 , Alpha 0.5
+2 - ratio 1 Alpha 0.2
+3 - ratio 0.2 Alpha 0.2
+
+se ven 3, ninguna separación clara a 4 segmentos
+--- CLUSTER 1 ---
+4 - Clúster azul
+5 - Posible anomalía
+6 - Posible patrón
+7 - Posible patrón 
+8 - Posible patrón 
+--- CLUSTER 2 ---
+9 - Posible patrón 
+10 - Posible patrón 
+11- Nada en claro 
+12 - Nada en claro
+13 - Nada en claro 
+14 - Posible patrón
+15 - Posible patrón 

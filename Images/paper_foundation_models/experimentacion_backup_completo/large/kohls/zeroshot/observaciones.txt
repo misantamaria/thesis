@@ -1,0 +1,9 @@
+Parecía que podía tener algo de tendencias, pero al mirar, se observa que no. Hay una clara segmentación pico-nopico con una detección de anomalías interesantes en el pico con dos trozos más picudos t la parte plana que tiene un bajón previo a la montaña. Sin embargo, no se observa una tendencia al alza en o que parecía una recta. 
+Esto debe ser por el hecho de que las líneas se entrecruzan, no es tan claro el avance como en MVP
+Es decir, no estoy avanzando por patrones diferenciados por altura, sino que obvio esa tendencia e igualo por patrones.
+
+Aparentemente MVP es bueno capturando la tendencia pero Moment, no, "obvia" la altura de la serie
+
+Con este supuesto, Moment no será aconsejable para la detección de tendencias, sino de patrones.
+
+Esto puede ser bueno, por ejemplo, si estamos analizando BitCoin y lo que queremos saber no es tanto si está subiendo mucho o poco si no qué ocurre antes y después de cada vela y la frecuencia con que esos patrones se repiten . 

@@ -1,0 +1,20 @@
+1- ratio 1
+2- ratio 0.2
+3- Clúster verde | Parece coger los picos intermedios que vienen después de una caída alta. Caídas antes de caídas
+4- Clúster azul | La otra mitad de la serie
+5- Clúster naranja. ¿Picos superiores junto con la subida?
+6- Clúster rosa. Parece contener toda la serie. ¿Estará ahí la información de los patrones?
+7- Picos de la derecha
+8- Clúster rosa de cerca
+9- Anomalía de la derecha
+10- Anomalía de la izquierda. Increíblemente difícil de pillar.
+
+
+
+
+
+
+Estaría bien incluir una opción de, al hacer zoom en una parte, quitar todas las líneas / reducir su Alpha de aquellos puntos que no están dentro del plot seleccionado. Tambéne staría bien poder hacer zomm-in varias veces seguidas y no solo 1
+
+
+

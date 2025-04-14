@@ -1,0 +1,10 @@
+De primeras, parece tener más segmentos. Tiene posibilidades. Vamos a ver de cerca con ratio 1 que se separan más los puntos.
+
+Por imágenes
+1 - parte derecha: se acerca mucho al segmento df2 con restos de otros.
+2 - El punto separado es justo en el inicio de df2
+3 - En el siguiente tramo, encontramos el segmento df1 con restos de df2 y df3. Le falta un poco de precisión
+4 - En la parte de la izquierda, parece estar cogiendo df1, df3 y df4
+
+Da la impresión de estar cazando df2 vs resto de la serie
+Hagamos fine-tune a ver si mejora. 

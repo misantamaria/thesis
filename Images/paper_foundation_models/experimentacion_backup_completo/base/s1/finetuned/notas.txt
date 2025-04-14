@@ -1,0 +1,33 @@
+  1 - ratio_1 Alpha 0.5
+2 - ratio_1 Alpha 0.2
+3 - ratio_02 Alpha 0.2
+4 - clúster Azul --> Tiene casi toda la serie entera... Probemos a hacer zoom 
+5 - Azul zoomeado 
+No se ve una estructura demasiado clara.
+De nuevo las líneas confunden por ir en orden temporal y estar mucho más relacionados con otro tiempo, lo que habla de posibles patrones entre puntos distantes en el tiempo. Lo que hace que salga la serie casi completa
+Veamos que pasa por trozos.
+5 - Abajo casi tenemos df2
+6 - Casi conseguimos df3
+7 - Mezcla, aparece más df1
+8 - Mezcla... casi todo menos df2... Nada en claro
+
+9 - Vamos con el siguiente clúster (el marrón), que este sí que tiene toooda la serie completa de nuevo, pero sin un solo hueco
+10 - Casi cogemos entero a DF 2!!
+11 - Mi gozo en un pozo, casi todo excepto df4 con huecos
+12 - Todo menos df2 más o menos
+13 - Lo mismo...
+básicamente distinguimos muy bien df2, pero el resto nada. A ver, es cierto  que es el más plano de todos pero.... para nada se distinguen tan bien como en MVP. 
+14 - Vamos con el último clúster (verde). Que por supuesto también tiene la serie completa
+15 - Recompongo a ratio 1, porque no veo nada, está todo muy apelotonado. Así se ve mejor
+16 - Casi excluimos a df4
+17 - Patrones comunes en df2 y df3
+18 - Casi aislamos df2
+19 - La serie entera completa... zoomeemos ahí a ver
+20 - Zoomeado, no hay una estructura clara...
+21 - Casi cazamos df2
+22 - Este también pilla de df2
+23 - Casi cogemos df1 y df3
+24 - Un poco genérico.. 
+25 - Todo menos df2 
+
+.. Moment se dedica un poco a hacerle bulling a df2... 
